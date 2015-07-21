@@ -1,0 +1,1 @@
+angular.module('clientsystem', []).config(function(){});

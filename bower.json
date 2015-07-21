@@ -1,0 +1,22 @@
+{
+  "name": "system",
+  "version": "0.0.0",
+  "authors": [
+    "eduardogml <eduardogml.webmaster@gmail.com>"
+  ],
+  "description": "client browser core system",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "core/client/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3"
+  }
+}

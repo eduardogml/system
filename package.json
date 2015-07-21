@@ -1,0 +1,18 @@
+{
+  "name": "system",
+  "version": "1.0.0",
+  "description": "core system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Eduardo Gomes de Moura Lima",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "express-load": "^1.1.14",
+    "mongoose": "^4.0.7"
+  }
+}
